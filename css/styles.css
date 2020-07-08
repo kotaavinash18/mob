@@ -23,3 +23,17 @@ p{
 font-family: 'Rubik', sans-serif;
 font-family: 'Ubuntu', sans-serif;
 }
+.phone{
+  padding-left: 350px;
+  padding-right: 350px;
+  margin: 20px;
+  border: 4px dotted;
+}
+h3{
+  color: #663399;
+  font-size: 20px;
+  font-family: 'Lora', serif;
+}
+.row{
+  padding: 30px;
+}
